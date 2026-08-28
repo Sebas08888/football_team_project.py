@@ -66,9 +66,9 @@ python Main.py
 
 ## 👤 Autor
 
-**Sebastian David Rodriguez Urbano** 
-**Andres Cardozo Daza**
-**Andres Felipe Quintero**
-**Andres Felipe Martinez**
+**Sebastian David Rodriguez Urbano**,
+**Andres Cardozo Daza**,
+**Andres Felipe Quintero**,
+**Andres Felipe Martinez**.
 Universidad de San Buenaventura  
 Programación Orientada a Objetos — 2026
