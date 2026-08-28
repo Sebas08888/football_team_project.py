@@ -11,7 +11,7 @@ fundamentales de POO: herencia, encapsulamiento, abstracción y polimorfismo.
 
 ## Estructura del Proyecto
 
-Football/
+Futbol /
 ├── Player.py → Clase jugador con goles, transferencias y retiro
 ├── Coach.py → Clase entrenador con instrucciones tácticas
 ├── FootballTeam.py → Clase equipo base con jugadores y entrenador
