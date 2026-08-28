@@ -1,4 +1,4 @@
-football_team_project.py
+futbol
 
 Proyecto desarrollado como práctica de **Programación Orientada a Objetos** 
 usando equipos de fútbol como contexto.
